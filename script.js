@@ -1,7 +1,5 @@
 import {apikey} from './apikey.js';
 
-//const apikey = '6726153103cb54963f97a568453da787';
-
 const main = document.getElementById('main');
 const form = document.getElementById('form');
 const search = document.getElementById('search');
