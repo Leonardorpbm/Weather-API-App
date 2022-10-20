@@ -1,0 +1,19 @@
+{
+  "name": "weather-api-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardorpbm/Weather-API-App.git"
+  },
+  "author": "Leonardo Marinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardorpbm/Weather-API-App/issues"
+  },
+  "homepage": "https://github.com/Leonardorpbm/Weather-API-App#readme"
+}
